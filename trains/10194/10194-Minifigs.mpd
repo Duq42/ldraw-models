@@ -1,0 +1,79 @@
+0 FILE Minifigs.ldr
+0 Minifigs
+0 Name: Minifigs.ldr
+0 Author: Ronald 'Duq' Vallenduuk
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 0 -160 0 0 1 0 0 0 1 0 0 0 1 Accessories.ldr
+1 0 -80 0 0 1 0 0 0 1 0 0 0 1 Passenger.ldr
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 Conductor.ldr
+1 0 80 0 0 1 0 0 0 1 0 0 0 1 Driver.ldr
+0
+0 FILE Driver.ldr
+0 Driver
+0 Name: Driver.ldr
+0 Author: Ronald 'Duq' Vallenduuk
+0 Unofficial Model
+0 
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 272 0 -40 0 1 0 0 0 1 0 0 0 1 3815.dat
+1 272 0 -28 0 1 0 0 0 1 0 0 0 1 3816.dat
+1 272 0 -28 0 1 0 0 0 1 0 0 0 1 3817.dat
+1 71 0 -72 0 1 0 0 0 1 0 0 0 1 973.dat
+1 71 -15.552 -63 0 0.985 -0.17 0 0.17 0.985 0 0 0 1 3818.dat
+1 72 -23.8634 -45.4044 -10.321 0.985 -0.12019 0.12019 0.17 0.696395 -0.696395 0 0.707 0.707 3820.dat
+1 71 15.552 -63 0 0.985 0.17 0 -0.17 0.985 0 0 0 1 3819.dat
+1 72 23.8634 -45.4044 -10.321 0.985 0.12019 -0.12019 -0.17 0.696395 -0.696395 0 0.707 0.707 3820.dat
+1 4 0 -72 0 1 0 0 0 1 0 0 0 1 30133.dat
+1 14 0 -96 0 1 0 0 0 1 0 0 0 1 3626bp0a.dat
+1 0 0 -96 0 1 0 0 0 1 0 0 0 1 30135.dat
+0
+0 FILE Conductor.ldr
+0 Conductor
+0 Name: Conductor.ldr
+0 Author: Ronald 'Duq' Vallenduuk
+0 Unofficial Model
+0 
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 379 0 -40 0 1 0 0 0 1 0 0 0 1 3815c01.dat
+1 272 0 -72 0 1 0 0 0 1 0 0 0 1 973p83.dat
+1 272 -15.552 -63 0 0.985 -0.17 0 0.17 0.985 0 0 0 1 3818.dat
+1 14 -23.8634 -45.4044 -10.321 0.985 -0.12019 0.12019 0.17 0.696395 -0.696395 0 0.707 0.707 3820.dat
+1 272 15.552 -63 0 0.985 0.17 0 -0.17 0.985 0 0 0 1 3819.dat
+1 14 23.8634 -45.4044 -10.321 0.985 0.12019 -0.12019 -0.17 0.696395 -0.696395 0 0.707 0.707 3820.dat
+1 14 0 -96 0 1 0 0 0 1 0 0 0 1 3626cp8k.dat
+1 484 0 -96 0 1 0 0 0 1 0 0 0 1 62810.dat
+0
+0 FILE Passenger.ldr
+0 Passenger
+0 Name: Passenger.ldr
+0 Author: Ronald 'Duq' Vallenduuk
+0 Unofficial Model
+0 
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 71 0 -40 0 1 0 0 0 1 0 0 0 1 3815.dat
+1 71 0 -28 0 1 0 0 0 1 0 0 0 1 3816.dat
+1 71 0 -28 0 1 0 0 0 1 0 0 0 1 3817.dat
+1 1 0 -72 0 1 0 0 0 1 0 0 0 1 973.dat
+1 15 -15.552 -63 0 0.985 -0.17 0 0.17 0.985 0 0 0 1 3818.dat
+1 14 -23.863 -45.404 -10.321 0.985 -0.12019 0.12019 0.17 0.696395 -0.696395 0 0.707 0.707 3820.dat
+1 15 15.552 -63 0 0.985 0.17 0 -0.17 0.985 0 0 0 1 3819.dat
+1 14 23.863 -45.404 -10.321 0.985 0.12019 -0.12019 -0.17 0.696395 -0.696395 0 0.707 0.707 3820.dat
+1 14 0 -96 0 1 0 0 0 1 0 0 0 1 3626bp09.dat
+1 19 0 -96 0 1 0 0 0 1 0 0 0 1 6093a.dat
+0
+0 FILE Accessories.ldr
+0 Accessories
+0 Name: Accessories.ldr
+0 Author: Ronald 'Duq' Vallenduuk
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 70 -20 -32 0 0 0 1 0 1 0 -1 0 0 4449.dat
+1 0 20 -32 0 0 0 1 0 1 0 -1 0 0 4449.dat
+0
+0
